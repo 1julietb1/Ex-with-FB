@@ -1,0 +1,9 @@
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\Ex.csprojAssemblyReference.cache
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\C19 Ex03.g.resources
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\EX.ThreeRadioButtonsOnlyOneSelected.resources
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\EX.FormMainPage.resources
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\EX.PostPanel.resources
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\C19_Ex03.Properties.Resources.resources
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\Ex.csproj.GenerateResource.cache
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\C19 Ex03.exe
+C:\Users\yuliyusbo\Desktop\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642-20190923T063404Z-001\C19 Ex03 YuliaBogonos 320663958 EliorLevi 203721642\C19 Ex03\obj\Debug\C19 Ex03.pdb
