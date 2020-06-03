@@ -1,4 +1,4 @@
-In this project, me and my parter exercise some Design Patterns, like - iterator, strategy, and observer, using Facebook API.
+In this project, me and my partner  exercise some Design Patterns, like - iterator, strategy, and observer, using Facebook API.
 We developed these features-  Alone Time, and Find Your Stalker.
 
 •Alone Time - 
